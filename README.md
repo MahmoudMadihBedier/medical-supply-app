@@ -1,4 +1,4 @@
-# compass
+# medical supply app
 
 A new Flutter project.
 
